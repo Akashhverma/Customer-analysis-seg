@@ -1,5 +1,7 @@
 Customer Segmentation Using K-Means Clustering
+
 Overview
+
 This project implements customer segmentation using the K-Means Clustering algorithm. The goal is to analyze customer data and group them into clusters based on features like age, income, spending score, and membership years. The project involves univariate, bivariate, and multivariate clustering, along with detailed exploratory data analysis (EDA).
 
 The segmentation helps businesses understand their customer base better, enabling personalized marketing strategies and improving customer experience.
