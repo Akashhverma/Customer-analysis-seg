@@ -43,8 +43,8 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/your-username/Customer-Segmentation-KMeans.git
-cd Customer-Segmentation-KMeans
+git clone https://github.com/[your-username/Customer-Segmentation-KMeans](https://github.com/Akashhverma/Customer-segmentation-analysis).git
+cd [Customer-Segmentation-KMeans](https://github.com/Akashhverma/Customer-segmentation-analysis)
 Install Dependencies
 Install all required libraries:
 
